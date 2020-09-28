@@ -1,0 +1,25 @@
+header {
+  background-color: lightslategray;
+}
+
+.navbar a {
+  color:skyblue;
+}
+
+.navbar a:hover {
+  color: rgb(red, green, blue);
+}
+
+.dropdown .dropdown-item {
+  background-color: skyblue;
+}
+
+.jumbotron {
+  background-color: #9b6a4a;
+  color: aliceblue;
+}
+
+footer {
+  background-color: #3b1901;
+  color: aliceblue;
+}
